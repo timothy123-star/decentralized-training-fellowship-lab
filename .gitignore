@@ -1,0 +1,37 @@
+# Python environments
+fellowship-env/
+.venv/
+venv/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+
+# Notebook temporary files
+.ipynb_checkpoints/
+
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+
+# Model checkpoints and large generated files
+*.pt
+*.pth
+*.ckpt
+
+# Private or sensitive data
+data/raw/
+data/private/
+private/
+secrets/
+
+# Development tools
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
