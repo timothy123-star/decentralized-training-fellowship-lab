@@ -63,28 +63,6 @@ python -c "import torch; print(torch.__version__)"
 
 Python, PyTorch, torchvision, and Flower were successfully installed and imported.
 
-## Problems Encountered
-
-## Resource Title
-
-### Source
-
-Add the title and public link.
-
-### What I understood
-
-Explain the main ideas in your own words.
-
-### What confused me
-
-List the concepts you still do not understand.
-
-### Why it matters
-
-Explain how it relates to decentralized training.
-
-### PayShield connection
-
 Explain whether it could affect collaborative fintech fraud detection.
 
 ### Questions for the meeting
