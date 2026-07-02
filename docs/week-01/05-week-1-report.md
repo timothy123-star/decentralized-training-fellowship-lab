@@ -1,7 +1,7 @@
 # Week 1 Report
 
 **Name:** Timothy Okolo
-**Track:** AI Research — Decentralized Training
+**Track:** AI Research - Decentralized Training
 **Week:** Week 1
 **Focus:** Orientation, terminology, environment setup, and initial research direction
 
