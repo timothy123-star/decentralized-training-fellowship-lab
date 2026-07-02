@@ -62,9 +62,3 @@ python -c "import torch; print(torch.__version__)"
 ## Verification Result
 
 Python, PyTorch, torchvision, and Flower were successfully installed and imported.
-
-Explain whether it could affect collaborative fintech fraud detection.
-
-### Questions for the meeting
-
-Write specific questions to raise with the mentor or group.
