@@ -57,16 +57,6 @@ However, it becomes difficult when multiple banks or fintech companies want to c
 
 Distributed computation is not automatically decentralized training. A system can use many machines while remaining centralized if one organisation controls the data, infrastructure, model, and training process.
 
-## Centralized Training
-
-### My explanation
-
-### Example
-
-### Main advantage
-
-### Main limitation
-
 ## Distributed Data Parallel Training
 
 ### My explanation
